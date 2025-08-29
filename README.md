@@ -5,7 +5,7 @@ QQ机器人 NoneBot 镜像构建
 **仅供学习交流使用，请勿用于非法用途**
 
 ## 1. NoneBot 镜像构建
-[url https://nonebot.dev/docs/]
+
 
 ### 项目依赖管理
 **Poetry**
@@ -176,3 +176,4 @@ nb docker build
 - [鸣潮签到插件](https://github.com/tyql688/RoverSign)
 - [NoneBot](https://nonebot.dev/)
 - [NapCatQQ](https://napneko.github.io/)
+- [项目参考](https://github.com/sklun/WutheringWavesUID_in_Docker)
