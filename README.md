@@ -134,8 +134,8 @@ services:
 1. 登录 GsCore 网页控制台，进入`插件管理/修改插件设定`
 2. 进入 WutheringWavesUID 配置
    - 库街区登录配置参照[登录帮助](https://wiki.wavesuid.top/docs/login/yun)、
-3. 鸣潮命令 ww帮助
-4. 鸣潮签到命令 rs帮助
+3. 鸣潮命令 `ww帮助`
+4. 鸣潮签到命令 `rs帮助`
 
 ## 资源/资料
 
